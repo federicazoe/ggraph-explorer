@@ -1,7 +1,5 @@
 # ggraph explorer
 
-#### Description 
-
 This repository contains the code for ggraph explorer, a Shiny app to showcase and learn some of the basic functionalities of the package [ggraph](https://cran.r-project.org/web/packages/ggraph/index.html) for network visualization. 
 
 #### Authors
